@@ -12,3 +12,10 @@
 #### *Summary*
 
 I am motivated, eager to learn new things, and passionate about web development
+
+#### *Skills*
+  HTML, CSS, JavaScript, React, Git 
+
+#### *Experience*
+  JavaScript tasks on [Codewars](https://www.codewars.com/users/StupendouS)
+  Personal projects on [Github](https://github.com/AlexGabrielov)
