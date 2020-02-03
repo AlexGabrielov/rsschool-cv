@@ -19,3 +19,6 @@ I am motivated, eager to learn new things, and passionate about web development
 #### *Experience*
   JavaScript tasks on [Codewars](https://www.codewars.com/users/StupendouS)
   Personal projects on [Github](https://github.com/AlexGabrielov)
+#### *Education*
+  Peter the Great Saint Petersburg Polytechnic University. Faculty of Technical Cybernetics. Master's degree in Software Engineering (2011 - 2018)
+
