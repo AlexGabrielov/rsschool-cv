@@ -24,4 +24,3 @@ I am motivated, eager to learn new things, and passionate about web development
   Peter the Great Saint Petersburg Polytechnic University. Faculty of Technical Cybernetics. Master's degree in Software Engineering (2011 - 2018)
 #### **English Level**
   C1 (Advanced)
-
