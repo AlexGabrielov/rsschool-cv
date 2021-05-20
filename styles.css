@@ -2,3 +2,6 @@ main {
   max-width: 1024px;
   margin: 0 auto;
 }
+article { 
+  border-bottom: 1px solid hsl(0, 0%, 75%);
+}
